@@ -895,3 +895,15 @@ ul.link-dex {
     width: 400px;
   }
 }
+
+.info-token {
+  margin-top: 45px;
+  font-size: 23px;
+  line-height: 38px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+}
